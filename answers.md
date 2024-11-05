@@ -35,3 +35,23 @@ Das README.md File ist verschwunden, sobald ein Checkout mit dem Initial Commit 
 ### Task 7
 
 ![Gitgraph](img/gitgraph.svg)
+
+1. Dies ist der Name des Branches (develop). 
+
+2.  Die Commit-ID
+
+3. Commit Beschreibung
+
+4. Autoreninformation, zeigt den Autor, welcher die Änderungen vorgenommen hat.
+
+5. Tag v1.0.0: Zeigt die Version des Codes an.
+
+6. Develop-Branch. Das ist eins seperater Arbeitsbereich, an dem Änderungen vorgenommen werden können, bevor sie in den Haupt-Branch integriert werden.
+
+7. Commit auf dem feature-auth Branche.
+
+8. Zusammenführungspunkt (Merge) Develope into Main
+
+9. Von hier aus wurde der Develope Branche vom Main Branche abgeleitet.
+
+10. Initial Commit des Projekts und der Ausgangspunkt des main Branche
